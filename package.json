@@ -1,0 +1,25 @@
+{
+  "name": "Vanilla-Node.js",
+  "version": "1.0.0",
+  "description": "REST-API with Vanilla Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoguer/Vanilla-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoguer/Vanilla-Node.js/issues"
+  },
+  "homepage": "https://github.com/jhoguer/Vanilla-Node.js#readme"
+}
